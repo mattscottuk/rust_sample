@@ -1,2 +1,2 @@
-# rust_sample
-Sample Rust Applications
+# Rust Sample
+Rust code playground - experimenting with various Financial Calculations.
